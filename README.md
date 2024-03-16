@@ -1,5 +1,5 @@
 # TechTribe
 
 Alibong, Jann Marie A.       
-Andales, Reynaldo 
+Andales, Reynaldo             
 Magno, Rachell
